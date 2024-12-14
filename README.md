@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a `RecursionError` caused by a missing base case in a recursive function. The `factorial` function does not handle negative input values correctly. The solution file shows how to add appropriate input validation to prevent the error.
